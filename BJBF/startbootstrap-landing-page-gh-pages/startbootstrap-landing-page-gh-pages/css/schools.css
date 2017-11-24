@@ -19,7 +19,7 @@ body, h1, h2, h3, h4, h5, h6 {
   padding-bottom: 50px;*/
   /*text-align: center;*/
   color: #f8f8f8;
-  background: linear-gradient(0deg,rgba(100,255,0,0.3),rgba(100,255,0,0.3)),url(../img/stage.jpg) no-repeat center center;
+  background: linear-gradient(0deg,rgba(129, 150, 209, 0.3),rgba(129,150,209,0.3)),url(../img/stage.jpg) no-repeat center center;
   background-size: cover;
   height: 330px;
 }
